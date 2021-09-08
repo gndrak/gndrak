@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @gndrak
 - 👀 I’m interested in Data Analytics & Machine Learning 
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Analysis, Machine Learning
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: g.n.drakos@gmail.com
 
